@@ -1,0 +1,25 @@
+{
+  "name": "ci_cd-lab_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadafShahid13/CI_CD-Lab_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadafShahid13/CI_CD-Lab_01/issues"
+  },
+  "homepage": "https://github.com/SadafShahid13/CI_CD-Lab_01#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "y": "^0.3.2"
+  }
+}
